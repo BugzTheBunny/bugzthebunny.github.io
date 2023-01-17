@@ -225,7 +225,7 @@ $(function(){
 
         $("#typed").typed({
             strings: [
-                "A software developer"," a geek"," fiancé of Liz Lugasi"
+                "A software developer","A geek","Fiancé of Liz Lugasi"
             ], //Strings to display when typing
             typeSpeed: 10,
             backDelay: 600,
